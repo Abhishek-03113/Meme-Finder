@@ -7,7 +7,7 @@ The meme finder uses the following tech
 -HTML 
 
 It was a fun project to develop and gave me a good idea of basic working of the flask web framework
-This is a project based on the similar project done by : ### @networkchuck 
+This is a project based on the similar project done by : @networkchuck 
 
 
 
